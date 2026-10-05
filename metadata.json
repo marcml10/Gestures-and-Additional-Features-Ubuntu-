@@ -1,0 +1,7 @@
+{
+  "uuid": "new-window-extension@example.com",
+  "name": "New Window Extension",
+  "description": "Opens applications in new windows.",
+  "version": 1,
+  "shell-version": ["50"]
+}
